@@ -1,3 +1,13 @@
+# About this fork
+Changed the HTMLExporter.cpp to be able to paste highlited code into MS Teams and into (some versions of) Confluence and Jira.
+
+A precompiled x64 binary could be downloaded from [here](https://github.com/zippie-lab/NPP_ExportPlugin/releases/download/0.4.0/NppExport_0.4.0_x64.zip). 
+
+
+<br>
+<br>
+
+_Bellow follows the original [chcg's](https://github.com/chcg/NPP_ExportPlugin) Readme.md_
 # NPP_Export
 Notepad++ Plugin NppExport
 unofficial repo with sourcecode of https://sourceforge.net/projects/npp-plugins/files/NppExport/
